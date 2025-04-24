@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 :root {
     --primary: #005DAA; /* HKUST blue */
     --secondary: #F1B434; /* HKUST gold */
