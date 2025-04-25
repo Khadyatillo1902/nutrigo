@@ -143,6 +143,17 @@ nav ul li a:hover {
     color: var(--primary);
 }
 
+.btn-outline-menu {
+    background-color: white;
+    border: 2px solid white;
+    color: var(--primary);
+    margin-left: 0;
+}
+.btn-outline-menu:hover {
+    background-color: white;
+    color: var(--primary);
+}
+
 section {
     padding: 3rem 0;
 }
